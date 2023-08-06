@@ -1,0 +1,6 @@
+.GlobalWrapper {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #e4e9f7;
+}
